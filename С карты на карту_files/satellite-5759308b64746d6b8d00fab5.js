@@ -1,0 +1,1 @@
+_satellite.pushAsyncScript(function(e,t,a){var i=_satellite.getVar("Relative URL");document.cookie="prev_page="+i+";domain=.tinkoff.ru;path=/",sessionStorage.setItem("prev_page",_satellite.getVar("Relative URL"))});
